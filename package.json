@@ -1,0 +1,21 @@
+{
+  "name": "rss_reader_test",
+  "version": "1.0.0",
+  "description": "Programming test for potential candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finovertech/RssReaderTest.git"
+  },
+  "author": "Jeff Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Finovertech/RssReaderTest/issues"
+  },
+  "homepage": "https://github.com/Finovertech/RssReaderTest#readme",
+  "devDependencies": {
+  }
+}
